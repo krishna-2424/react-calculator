@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "author": {
-    "name": "Harshini"
+    "name": "Krishna"
   },
   "scripts": {
     "start": "babel-node ./server/server.js",
